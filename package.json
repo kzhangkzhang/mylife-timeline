@@ -1,0 +1,12 @@
+{
+  "name": "MyLife_timeline",
+  "version": "1.0.0",
+  "description": "> Based on Brad Traversy Udemy course \"Modern HTML & CSS from The Beginning\": Knowledge Resume, I created my Life Path timeline + with Sticky top heading + background audio",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "Kevin Zhang",
+  "license": "ISC"
+}
